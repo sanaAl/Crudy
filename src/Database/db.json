@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Ali",
+      "username": "Haider",
+      "email": "alii@gmail.com",
+      "phone": "14441202031",
+      "id": 1
+    },
+    {
+      "name": "Shinchan",
+      "username": "Sheeru",
+      "email": "kaiser@gmail.com",
+      "phone": "9994209999",
+      "id": 3
+    },
+    {
+      "name": "Ashley",
+      "username": "Rubixcube",
+      "email": "dezirel@gmail.com",
+      "phone": "09093999992",
+      "id": 4
+    },
+    {
+      "name": "Ash",
+      "username": "Yamato",
+      "email": "thunderstorm@gmail.com",
+      "phone": "99999999372",
+      "id": 5
+    },
+    {
+      "name": "koichi",
+      "username": "ayumu",
+      "email": "mtbbiker@gmail.com",
+      "phone": "0863 040 9372",
+      "id": 6
+    }
+  ]
+}
